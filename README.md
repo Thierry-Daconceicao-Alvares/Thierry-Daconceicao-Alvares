@@ -1,6 +1,8 @@
 ### Hi, I'm Thierry 👋
 
-**Business Analyst · Data, BI & AI** · Paris area, France · Open to new opportunities, available now
+**AI & Data Specialist** | Applied AI · LLMs · Python · Business Intelligence | Procurement & Industrial Analytics
+
+Paris area, France · Open to new opportunities, available now
 
 I turn operational data into decision tools that teams actually adopt: reliable dashboards, automated data-quality controls and AI assistants for non-technical users, from requirements to rollout. Two years in the Purchasing department of Valeo Service (13 purchasing categories, 4 regions, 25 countries) and an MSc in Data & AI for Business.
 
