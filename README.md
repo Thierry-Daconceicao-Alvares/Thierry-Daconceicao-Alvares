@@ -30,9 +30,9 @@ I turn operational data into decision tools that teams actually adopt: reliable 
 
 #### Education and certifications
 
-- MSc Data & AI for Business, Albert Global Data School, Paris
-- BSc in Applied Mathematics and Computer Science for Social Sciences (MIASHS, Economics track), Université Savoie Mont Blanc
-- Dataiku Machine Learning Practitioner · Dataiku Core Designer
+- MSc Data & AI for Business : Machine learning, data science, IA générative ; projets Power BI (DAX, Power Query) et modélisation prédictive (Python, Dataiku).
+- BSc in Applied Mathematics and Computer Science for Social Sciences (MIASHS, Economics track) : Mathématiques , statistiques, probabilités, Python, SQL.
+- Certification Dataiku Machine Learning Practitioner · Certification Dataiku Core Designer
 
 #### Contact
 
