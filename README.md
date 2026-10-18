@@ -30,9 +30,9 @@ I turn operational data into decision tools that teams actually adopt: reliable 
 
 #### Education and certifications
 
-- MSc Data & AI for Business : Machine learning, data science, IA générative ; projets Power BI (DAX, Power Query) et modélisation prédictive (Python, Dataiku).
-- BSc in Applied Mathematics and Computer Science for Social Sciences (MIASHS, Economics track) : Mathématiques , statistiques, probabilités, Python, SQL.
-- Certification Dataiku Machine Learning Practitioner · Certification Dataiku Core Designer
+- **MSc in Data & AI for Business**: machine learning, data science and generative AI, with Power BI (DAX, Power Query) and predictive modelling projects (Python, Dataiku).
+- **BSc in Applied Mathematics and Computer Science for the Social Sciences (MIASHS)**, Economics track: mathematics, statistics, probability, Python and SQL.
+- **Certifications**: Dataiku Machine Learning Practitioner · Dataiku Core Designer
 
 #### Contact
 
