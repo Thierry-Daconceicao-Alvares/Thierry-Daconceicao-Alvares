@@ -2,7 +2,7 @@
 
 ### Hi, I'm Thierry 👋
 
-**AI & Data Specialist** | Applied AI · LLMs · Python · Business Intelligence | Procurement & Industrial Analytics
+**AI & Data Specialist** | Data Analyst · Business Analyst · Applied AI (LLM, RAG, Agents) | Procurement & Finance | SQL · Python · Power BI
 
 Paris area, France · Open to new opportunities, available now
 
