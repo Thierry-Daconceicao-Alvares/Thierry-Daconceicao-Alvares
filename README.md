@@ -17,6 +17,7 @@ I turn operational data into decision tools that teams actually adopt: reliable 
 
 | Project | Highlights | Try it | Stack |
 |---|---|---|---|
+| [**Invoice Block Radar**](https://github.com/Thierry-Daconceicao-Alvares/invoice-block-radar) | Payment blocks in purchase-to-pay, on a real event log (251,734 order lines, 1.6M steps): process mining shows 22% of lines blocked and 65% of blocks released with nothing corrected; a LightGBM model with SHAP flags risky lines at order time (checking the riskiest 20% catches 42% of future blocks, twice a random check, on months it never saw); a detective sorts blocked invoices with rules and drafts the vendor email with Mistral, every figure checked in code; a weaker model rejected and shown as such | [Live demo](https://invoice-block-radar.vercel.app) | dbt · DuckDB · PM4Py · LightGBM · SHAP · Mistral · FastAPI · Next.js · ECharts |
 | [**NEXORA AI**](https://github.com/Thierry-Daconceicao-Alvares/nexora-ai) | AI-assisted review of purchase requests: seven purchasing rules in code, an LLM that explains findings citing only the policy passages it was given, every citation, figure and quotation verified in code, decisions by people with a full audit trail, email intake and notifications through n8n; evaluated on 153 held-out requests, failures included | [Live demo](https://nexora-procurement.streamlit.app) | Python · FastAPI · PostgreSQL · Mistral · Streamlit · n8n · Docker |
 | [**AI Procurement Intelligence**](https://github.com/Thierry-Daconceicao-Alvares/ai-procurement-intelligence) | Spend analytics, anomaly detection and supplier risk on 1.5M French public contracts (open data): records merged and implausible amounts set aside, LightGBM model of expected amounts, spend classification, alerts explained by an LLM with every figure verified, decisions in an audit log; Power BI report on the same data | [Live demo](https://ai-procurement-intelligence.streamlit.app) | Python · DuckDB · LightGBM · scikit-learn · Gemini · Streamlit · Power BI |
 | [**Enterprise AI Knowledge Assistant**](https://github.com/Thierry-Daconceicao-Alvares/enterprise-ai-knowledge-assistant) | RAG assistant that answers from company documents with page-level citations and declines when the answer is not there; measured on 62 labelled cases (59 passed), including prompt injection, contradictions and outdated versions | [Live demo](https://knowledge-assistant-rag.streamlit.app) | Python · Gemini · Chroma · FastAPI · Streamlit |
@@ -28,6 +29,7 @@ I turn operational data into decision tools that teams actually adopt: reliable 
 |---|---|
 | **Data & BI** | SQL · Python · dbt · BigQuery · Power BI (DAX, Power Query) · Qlik · Looker Studio · Excel · Dataiku |
 | **Automation** | Google Apps Script · JavaScript · HTML/CSS · Chart.js |
+| **Machine learning & apps** | LightGBM · SHAP · scikit-learn · PM4Py (process mining) · FastAPI · Next.js · ECharts |
 | **Generative AI** | Multi-LLM architectures · prompt engineering · few-shot learning · use-case scoping and adoption |
 | **Procurement & ERP** | SAP P2P · master data · spend analysis · supplier performance and compliance |
 
