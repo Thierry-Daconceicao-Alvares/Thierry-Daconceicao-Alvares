@@ -1,3 +1,5 @@
+<img src="assets/portfolio-banner.png" alt="Thierry Daconceição Alvares: Data, BI and AI projects in procurement and finance" width="100%">
+
 ### Hi, I'm Thierry 👋
 
 **AI & Data Specialist** | Applied AI · LLMs · Python · Business Intelligence | Procurement & Industrial Analytics
